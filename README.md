@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Array
 |  |
 | ------- |
+| [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
