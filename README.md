@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Number Theory
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
