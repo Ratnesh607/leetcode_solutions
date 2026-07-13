@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -80,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
+| [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
