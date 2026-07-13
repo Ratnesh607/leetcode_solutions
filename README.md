@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 ## Stack
 |  |
 | ------- |
