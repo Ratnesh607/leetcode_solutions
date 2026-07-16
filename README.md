@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3467-transform-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
