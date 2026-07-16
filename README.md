@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
