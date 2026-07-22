@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
