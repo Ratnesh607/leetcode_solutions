@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2485-find-the-pivot-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
