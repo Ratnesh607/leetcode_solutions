@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
+| [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2485-find-the-pivot-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
