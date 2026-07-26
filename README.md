@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
