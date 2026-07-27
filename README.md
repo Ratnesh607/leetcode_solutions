@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3467-transform-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
