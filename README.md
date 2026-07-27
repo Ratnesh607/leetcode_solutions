@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
+| [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2401-longest-nice-subarray) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
