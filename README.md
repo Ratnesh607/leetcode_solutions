@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2401-longest-nice-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Monotonic Stack
 |  |
 | ------- |
