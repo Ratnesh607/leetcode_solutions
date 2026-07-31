@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1652-defuse-the-bomb](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2256-minimum-average-difference) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2401-longest-nice-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2401-longest-nice-subarray) |
