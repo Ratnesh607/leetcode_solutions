@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
