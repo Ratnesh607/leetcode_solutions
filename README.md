@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
