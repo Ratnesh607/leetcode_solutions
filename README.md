@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2103-rings-and-rods](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2103-rings-and-rods](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
