@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1734-decode-xored-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1734-decode-xored-permutation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2401-longest-nice-subarray) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
