@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
+| [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
