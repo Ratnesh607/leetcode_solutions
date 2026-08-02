@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3862-find-the-smallest-balanced-index) |
 ## Game Theory
 |  |
 | ------- |
