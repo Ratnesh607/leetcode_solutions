@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
+| [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
@@ -446,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
