@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2103-rings-and-rods](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2103-rings-and-rods) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
 | [1734-decode-xored-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1734-decode-xored-permutation) |
+| [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
