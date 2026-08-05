@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
+| [3310-remove-methods-from-project](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Brainteaser
 |  |
 | ------- |
@@ -445,10 +446,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [3310-remove-methods-from-project](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [3310-remove-methods-from-project](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Segment Tree
 |  |
 | ------- |
