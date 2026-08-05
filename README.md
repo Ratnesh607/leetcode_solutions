@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2582-pass-the-pillow) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
