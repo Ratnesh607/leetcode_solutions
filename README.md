@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
