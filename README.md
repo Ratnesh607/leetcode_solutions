@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
