@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2899-last-visited-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2899-last-visited-integers) |
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
