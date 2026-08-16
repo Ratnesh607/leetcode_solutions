@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2121-intervals-between-identical-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Sliding Window
 |  |
@@ -558,12 +563,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -580,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
