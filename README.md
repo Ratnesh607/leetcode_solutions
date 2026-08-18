@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2256-minimum-average-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
