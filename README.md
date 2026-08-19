@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
+| [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1734-decode-xored-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1734-decode-xored-permutation) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
