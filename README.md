@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2582-pass-the-pillow) |
 | [2899-last-visited-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2899-last-visited-integers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
