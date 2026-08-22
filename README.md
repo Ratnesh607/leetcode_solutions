@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
