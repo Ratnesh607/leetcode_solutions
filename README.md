@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2401-longest-nice-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2401-longest-nice-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
