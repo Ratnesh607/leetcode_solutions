@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2899-last-visited-integers) |
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -685,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
