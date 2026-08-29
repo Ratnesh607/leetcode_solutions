@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3136-valid-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3295-report-spam-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3295-report-spam-message) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
