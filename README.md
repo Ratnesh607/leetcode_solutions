@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
