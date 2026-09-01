@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1592-rearrange-spaces-between-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1592-rearrange-spaces-between-words) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
