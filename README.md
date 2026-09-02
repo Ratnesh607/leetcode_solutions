@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
