@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
