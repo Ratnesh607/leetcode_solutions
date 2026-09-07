@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Enumeration
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Math
 |  |
 | ------- |
