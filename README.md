@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2401-longest-nice-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2401-longest-nice-subarray) |
+| [2404-most-frequent-even-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
