@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
