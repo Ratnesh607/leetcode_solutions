@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0162-find-peak-element) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
