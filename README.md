@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1390-four-divisors) |
 ## Backtracking
 |  |
@@ -834,4 +839,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
