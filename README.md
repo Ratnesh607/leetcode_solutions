@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 ## Array
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
