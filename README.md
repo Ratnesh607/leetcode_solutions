@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
+| [0520-detect-capital](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
