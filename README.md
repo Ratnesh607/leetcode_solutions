@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
