@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0169-majority-element) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
