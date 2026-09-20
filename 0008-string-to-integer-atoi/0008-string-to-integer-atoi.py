@@ -1,6 +1,6 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        result = 0
+        num = 0
         sign = 1
         started = False
         for i in s:
@@ -15,16 +15,16 @@ class Solution:
 
             if ord("0") <= ord(i) <= ord("9"):
                 started = True
-                result *= 10
-                result += int(i)
+                num *= 10
+                num += int(i)
 
             else:
                 break
 
-        result *= sign
-        if result < -2**31:
+        num *= sign
+        if num < -2**31:
             return -2**31
-        if result > 2**31 - 1:
+        if num > 2**31 - 1:
             return 2**31 - 1
 
-        return result
+        return num
