@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
