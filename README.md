@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
 | [1734-decode-xored-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1734-decode-xored-permutation) |
 | [1748-sum-of-unique-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
