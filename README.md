@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1872-stone-game-viii) |
