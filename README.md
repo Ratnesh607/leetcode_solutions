@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3295-report-spam-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3295-report-spam-message) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3340-check-balanced-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3499-maximize-active-section-with-trade-i) |
