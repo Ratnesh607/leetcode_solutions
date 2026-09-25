@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -952,4 +955,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0292-nim-game) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
