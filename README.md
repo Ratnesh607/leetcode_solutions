@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
