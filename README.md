@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2256-minimum-average-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2256-minimum-average-difference) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
