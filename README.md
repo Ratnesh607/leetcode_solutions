@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1096-brace-expansion-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1096-brace-expansion-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
