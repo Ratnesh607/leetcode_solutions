@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0434-number-of-segments-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0520-detect-capital) |
