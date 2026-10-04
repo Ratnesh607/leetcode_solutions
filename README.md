@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
