@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
