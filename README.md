@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-find-the-k-or-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
