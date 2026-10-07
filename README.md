@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
