@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
