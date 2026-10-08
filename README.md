@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0383-ransom-note) |
