@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1927-sum-game) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Heap (Priority Queue)
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bubble Sort
