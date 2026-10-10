@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1668-maximum-repeating-substring](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1668-maximum-repeating-substring](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3407-substring-matching-pattern](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3407-substring-matching-pattern) |
 ## Union-Find
