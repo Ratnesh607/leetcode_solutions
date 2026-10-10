@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
