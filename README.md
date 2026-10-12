@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2899-last-visited-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2899-last-visited-integers) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
