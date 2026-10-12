@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1859-sorting-the-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0561-array-partition) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |
