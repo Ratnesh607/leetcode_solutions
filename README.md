@@ -1164,4 +1164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
