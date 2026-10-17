@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1370-increasing-decreasing-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1410-html-entity-parser](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1370-increasing-decreasing-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
