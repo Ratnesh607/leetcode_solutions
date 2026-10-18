@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
