@@ -7,8 +7,4 @@ class Solution:
                 less += 1
             elif i == target:
                 equal += 1
-
-        indices = [i for i in range(less, equal + less)]
-        
-        return indices
-        
+        return [i for i in range(less, equal + less)]
