@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1399-count-largest-group) |
 | [1410-html-entity-parser](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1410-html-entity-parser) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1370-increasing-decreasing-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1726-tuple-with-same-product) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1390-four-divisors) |
+| [1399-count-largest-group](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1510-stone-game-iv) |
