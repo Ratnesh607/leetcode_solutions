@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2615-sum-of-distances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2615-sum-of-distances) |
+| [2643-row-with-maximum-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
