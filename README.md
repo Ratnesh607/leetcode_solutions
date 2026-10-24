@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1017-convert-to-base-2](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1390-four-divisors) |
