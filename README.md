@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2381-shifting-letters-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
