@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
