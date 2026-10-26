@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1399-count-largest-group) |
