@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
