@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [0695-max-area-of-island](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0672-bulb-switcher-ii) |
+| [0695-max-area-of-island](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
@@ -1226,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
