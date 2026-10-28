@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2288-apply-discount-to-prices](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2288-apply-discount-to-prices) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2351-first-letter-to-appear-twice) |
