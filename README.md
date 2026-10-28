@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
