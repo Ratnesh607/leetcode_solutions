@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0670-maximum-swap) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
