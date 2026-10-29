@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0189-rotate-array) |
@@ -1265,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
