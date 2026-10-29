@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1263,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
