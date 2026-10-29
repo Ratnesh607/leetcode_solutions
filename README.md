@@ -795,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Heap (Priority Queue)
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
