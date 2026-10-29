@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
