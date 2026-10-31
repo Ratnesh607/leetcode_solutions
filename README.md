@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
