@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Enumeration
 |  |
 | ------- |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Number Theory
 |  |
 | ------- |
