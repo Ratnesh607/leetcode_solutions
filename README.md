@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1041-robot-bounded-in-circle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1254-number-of-closed-islands](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
