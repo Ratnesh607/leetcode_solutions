@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3790-smallest-all-ones-multiple) |
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Enumeration
 |  |
 | ------- |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3848-check-digitorial-permutation) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Math
 |  |
 | ------- |
