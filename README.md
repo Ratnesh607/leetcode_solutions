@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
+| [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
 ## Stack
 |  |
 | ------- |
