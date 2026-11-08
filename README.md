@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Combinatorics
 |  |
 | ------- |
