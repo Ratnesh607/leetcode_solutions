@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Combinatorics
 |  |
 | ------- |
