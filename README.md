@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1096-brace-expansion-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
+| [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1096-brace-expansion-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -1286,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
@@ -1446,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1859-sorting-the-sentence) |
 ## K-D Tree
 |  |
@@ -1478,4 +1483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
