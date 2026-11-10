@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3637-trionic-array-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3678-smallest-absent-positive-greater-than-average) |
