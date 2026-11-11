@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0820-short-encoding-of-words) |
 | [0859-buddy-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0890-find-and-replace-pattern) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0820-short-encoding-of-words) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0859-buddy-strings) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0775-global-and-local-inversions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0775-global-and-local-inversions) |
 | [0819-most-common-word](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0820-short-encoding-of-words) |
 | [0832-flipping-an-image](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0848-shifting-letters) |
@@ -1428,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0820-short-encoding-of-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0820-short-encoding-of-words) |
 ## Memoization
 |  |
 | ------- |
