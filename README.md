@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4024-nearest-available-drone) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4030-check-ascii-palindromic](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4030-check-ascii-palindromic) |
 ## Dynamic Programming
 |  |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
 |  |
 | ------- |
