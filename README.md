@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
 | [4024-nearest-available-drone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4024-nearest-available-drone) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1416,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
