@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3295-report-spam-message](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3295-report-spam-message) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1175,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
