@@ -1410,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1441,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
