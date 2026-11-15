@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1037-valid-boomerang](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1017-convert-to-base-2](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1017-convert-to-base-2) |
+| [1037-valid-boomerang](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1041-robot-bounded-in-circle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1154-day-of-the-year) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1037-valid-boomerang](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
 |  |
