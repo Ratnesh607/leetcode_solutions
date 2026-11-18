@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2810-faulty-keyboard](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2582-pass-the-pillow) |
+| [2810-faulty-keyboard](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2899-last-visited-integers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
