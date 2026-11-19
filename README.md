@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0697-degree-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0481-magical-string) |
+| [0500-keyboard-row](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0561-array-partition) |
