@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-destroy-sequential-targets](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2453-destroy-sequential-targets) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2670-find-the-distinct-difference-array) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2615-sum-of-distances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
