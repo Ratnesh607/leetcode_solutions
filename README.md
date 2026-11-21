@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-smallest-all-ones-multiple](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3790-smallest-all-ones-multiple) |
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [3945-digit-frequency-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3899-angles-of-a-triangle) |
+| [3945-digit-frequency-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
