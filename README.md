@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3899-angles-of-a-triangle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
+| [3899-angles-of-a-triangle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3899-angles-of-a-triangle) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
@@ -1132,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3899-angles-of-a-triangle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
