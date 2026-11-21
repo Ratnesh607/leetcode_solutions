@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4024-nearest-available-drone](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4024-nearest-available-drone) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4030-check-ascii-palindromic](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4030-check-ascii-palindromic) |
 ## Binary Search
 |  |
