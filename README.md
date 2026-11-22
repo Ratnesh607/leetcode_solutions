@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
 | [4039-sum-of-decoded-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4039-sum-of-decoded-numbers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
