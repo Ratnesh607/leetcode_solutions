@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [3931-check-adjacent-digit-differences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3931-check-adjacent-digit-differences) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4030-check-ascii-palindromic](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4030-check-ascii-palindromic) |
