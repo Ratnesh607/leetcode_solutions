@@ -591,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4030-check-ascii-palindromic](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4030-check-ascii-palindromic) |
 ## Dynamic Programming
