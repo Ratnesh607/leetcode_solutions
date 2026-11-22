@@ -875,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3899-angles-of-a-triangle) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3945-digit-frequency-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -1205,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
