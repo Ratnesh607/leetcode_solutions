@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2670-find-the-distinct-difference-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2582-pass-the-pillow) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2810-faulty-keyboard) |
 | [2899-last-visited-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/2899-last-visited-integers) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
