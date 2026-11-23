@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
+| [3861-minimum-capacity-box](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
