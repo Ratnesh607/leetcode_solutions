@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3790-smallest-all-ones-multiple) |
 | [3848-check-digitorial-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3848-check-digitorial-permutation) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
