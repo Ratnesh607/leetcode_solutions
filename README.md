@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3790-smallest-all-ones-multiple](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3790-smallest-all-ones-multiple) |
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [3945-digit-frequency-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3843-first-element-with-unique-frequency](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3848-check-digitorial-permutation) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
