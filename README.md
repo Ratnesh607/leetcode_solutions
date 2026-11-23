@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3856-trim-trailing-vowels](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
