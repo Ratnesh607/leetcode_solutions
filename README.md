@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0986-interval-list-intersections](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -1640,4 +1642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
