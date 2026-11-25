@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3853-merge-close-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3853-merge-close-characters) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3921-score-validator) |
 | [3926-count-valid-word-occurrences](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3926-count-valid-word-occurrences) |
+| [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -1240,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
@@ -1664,4 +1667,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0986-interval-list-intersections) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
