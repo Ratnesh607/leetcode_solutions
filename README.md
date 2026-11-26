@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-convert-to-base-2](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1017-convert-to-base-2) |
 | [1037-valid-boomerang](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1041-robot-bounded-in-circle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1103-distribute-candies-to-people](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -1073,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/Ratnesh607/leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1041-robot-bounded-in-circle](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1103-distribute-candies-to-people](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
