@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4015-weighted-sum-of-a-tree) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ratnesh607/leetcode_solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ratnesh607/leetcode_solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
 |  |
