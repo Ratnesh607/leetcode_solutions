@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1362-closest-divisors) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1054-distant-barcodes](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ratnesh607/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
